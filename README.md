@@ -22,6 +22,42 @@ Or
 
 Head over to [Bayesian Optimization Guide](https://boa-framework.readthedocs.io/en/stable/user_guide/bo_overview.html) to read about Bayesian Optimization and how it works.
 
+## Citation
+
+If you used this package in your research, please cite it:
+
+```
+@software{
+  author       = {Scyphers, Madeline and
+                  Missik, Justine},
+  title        = {Bayesian Optimization for Anything (BOA)},
+  year         = {2023--},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.7655353},
+  url          = {https://doi.org/10.5281/zenodo.7655353}
+}
+```
+
+Or if you use the paper in Environmental Modelling & Software, cite::
+
+```
+@article{scyphers_bayesian_2024,
+	title = {Bayesian Optimization for Anything ({BOA}): An open-source framework for accessible, user-friendly Bayesian optimization},
+	volume = {182},
+	issn = {13648152},
+	url = {https://linkinghub.elsevier.com/retrieve/pii/S1364815224002524},
+	doi = {10.1016/j.envsoft.2024.106191},
+	shorttitle = {Bayesian Optimization for Anything ({BOA})},
+	pages = {106191},
+	journaltitle = {Environmental Modelling \& Software},
+	shortjournal = {Environmental Modelling \& Software},
+	author = {Scyphers, Madeline E. and Missik, Justine E.C. and Kujawa, Haley and Paulson, Joel A. and Bohrer, Gil},
+	urldate = {2024-12-18},
+	date = {2024-11},
+	langid = {english},
+	file = {Scyphers et al. - 2024 - Bayesian Optimization for Anything (BOA) An open-.pdf:/Users/madelinescyphers/Zotero/storage/546J472I/Scyphers et al. - 2024 - Bayesian Optimization for Anything (BOA) An open-.pdf:application/pdf},
+}
+```
 
 |                       |                                                                                                                                                                 |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
